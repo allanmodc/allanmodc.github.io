@@ -1,4 +1,4 @@
 ---
 title: CFD
-layout: cfd
+layout: cfd_layout
 ---
