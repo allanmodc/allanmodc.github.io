@@ -30,11 +30,9 @@ layout: default
   </h1>
     
     <ul class="post-list">
-      {% for category in site.catergories %}
-        {% for post in category[1] %}
+     {% for post in site.categories.cfd_cat] %}
           {% include post-list-item.html %}
-       {% endfor %}
-      {% endfor %}
+     {% endfor %}
     </ul>
 
 </main>
