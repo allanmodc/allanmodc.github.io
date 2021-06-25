@@ -1,4 +1,4 @@
 ---
 title: CFD
-layout: post
+layout: home
 ---
