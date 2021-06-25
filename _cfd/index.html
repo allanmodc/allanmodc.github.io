@@ -1,4 +1,0 @@
----
-name: CFD
-layout: home
----
