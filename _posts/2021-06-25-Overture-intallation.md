@@ -1,6 +1,7 @@
 ---
 title: Intalling Overture
-style: cfd_cat
+style: post
+category: cfd_cat
 author: AllanMoDC
 ----
 
