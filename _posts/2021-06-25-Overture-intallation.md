@@ -1,5 +1,5 @@
 ---
-title: Intalling Overture
+title: Installing Overture
 style: post
 category: cfd_cat
 author: AllanMoDC
